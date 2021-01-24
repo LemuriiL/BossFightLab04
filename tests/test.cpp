@@ -1,7 +1,4 @@
-// Copyright 2020 Your Name <your_email>
-
+// Copyright 2021 LemuriiL <LemuriiL@yandex.ru>
 #include <gtest/gtest.h>
 
-TEST(Example, EmptyTest) {
-    EXPECT_TRUE(true);
-}
+TEST(Example, EmptyTest) { EXPECT_TRUE(true); }
